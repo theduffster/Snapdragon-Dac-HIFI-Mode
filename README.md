@@ -1,2 +1,2 @@
 # Snapdragon-Dac-HIFI-Mode
-Enable HIFI mode on Snapdragon DACs
+Enable enables the disabled CLS_H_HIFI DAC mode on Snapdragon DACs
