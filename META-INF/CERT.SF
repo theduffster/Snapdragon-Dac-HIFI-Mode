@@ -1,0 +1,17 @@
+Signature-Version: 1.0
+X-Android-APK-Signed: 2
+SHA1-Digest-Manifest: MiJAM+gGuUxzYmfAP35LTjKn8A4=
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: PSNXF1ItBo1w+S2VX22TOeTVV8Y=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: UaCHc7l4YjUAwZQbOWYhe9jNwyY=
+
+Name: system/vendor/lib/libaptX-1.0.0-rel-Android21-ARMv7A.so
+SHA1-Digest: dh51uW9gNMuasRiEPZgetXX1bKY=
+
+Name: system/vendor/lib/libaptXScheduler.so
+SHA1-Digest: D9ZUwOo86ZXxmHNq4c+dbS8mOQ8=
+

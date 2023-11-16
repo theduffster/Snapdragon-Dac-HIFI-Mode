@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: jlfYhVsqkxMKHB7MzupRyzTSkD0=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: VxThql1jiCAU1pd/EN67QpLuLeA=
+
+Name: system/vendor/lib/libaptX-1.0.0-rel-Android21-ARMv7A.so
+SHA1-Digest: sDdyZyFE1LdQpWcsKSKt7ZO7BRI=
+
+Name: system/vendor/lib/libaptXScheduler.so
+SHA1-Digest: agotVk/ehDQBi5hAzoHZdrTUqyg=
+
